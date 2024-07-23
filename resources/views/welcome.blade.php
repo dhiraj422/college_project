@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Home</a>
+                    <a href="https://laravel.com/docs">Dhiraj/a>
                     <a href="https://laracasts.com">About us</a>
                     <a href="https://laravel-news.com">Campaigns</a>
                     <a href="https://blog.laravel.com">How It Works</a>
